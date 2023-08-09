@@ -1,0 +1,16 @@
+Web API 
+using .Net 6 in Visual Studio
+install packages
+-	Microsoft.EntityframeworkCore
+-	Microsoft.EntityframeworkCore.Tools
+-	Microsoft.EntityframeworkCore.SqlServer
+create class as Model
+create class as DbContext
+set connection string in appsettings.json
+inject DbContext in Program.cs
+in console, run add-migration
+run update-database
+create controller with constructor
+write CRUD method using HttpGet, HttpPost, HttpPut and HttpDelete
+* prefferably use await ... async() for asynchronous process
+

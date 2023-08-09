@@ -1,0 +1,36 @@
+Web API 
+create table user
+
+Angular
+- create login page using component name login
+- using service to access data from table user for login purposes
+- install angular material
+- 
+
+
+
+
+ctrl shift ` - create new terminal
+
+
+ctrl enter - insert line below
+ctrl shift enter - insert new line above
+ctrl alt F - find in all document
+ctrl [ - indent left
+ctrl ] - indent right
+ctrl shift L - select same words
+ctrl H - replace
+ctrl K [ - fold sub region
+ctrl K ] - unfold sub region
+ctrl shift [ - fold region
+ctrl shift ] - unfold region
+ctrl k 0 - fold all region
+ctrl k j - unfold all region
+
+
+HTML
+div>table
+div>input*3
+div.panel
+div>label>input>button6
+

@@ -1,0 +1,48 @@
+*pesanan*
+- nak buat template baru untuk meeting guna navgation pane
+
+RRMind - pn sara buat dashboard. dah present dgn dr faridah 28/4 -> nak masuk itech
+RRMniaga - 
+RRMeformulary internal user - / tunggu myLesen
+RRMeformulary user page - tambah landing page, filter range min and max bhg properties
+myLesen - next meeting 22/3
+
+sebutharga
+
+
+myGPS/app gps - hairul kata nak pakai terus, x boleh tunggu myLesen siap
+Data Kastam - pn mimi
+ePricision - 
+e-estate - cuma insert monthly data je, xde register apa
+SSO 	- Panggil meeting untuk publishing, beli pasang training
+	- Resource, client, server
+ 	- mesti nak ada roles blh reach sampai mana. 
+	- Admin setiap application blh access lebih
+	- meeting dgn en.zaid,sab,syakir dan k.mimi
+
+eRM - / penting untuk cess
+eRP - /
+PMS 	- invoice,lo upload x lepas (limit 67mb)
+sistem Aduan - 8/5 meeting 30min k.mimi, rahim
+
+UKA attachment - dh x mintak. dah guna NAVA
+Pembangunan Semula Sistem Pengemaskinian Laman Web - dashboard kena connect dgn api berdasarkan yg lama - maintain
+
+*kalau dah siap system, terus try publish kat server - guna server yg sso baru. angular xde masalah server lama. web api guna server baru -sso
+-staging
+
+*Operation*
+RRIMniaga - upload db
+RRIMfast - sistem UKA baru, spec user luar. UPPF encik syukri request system project monitoring untuk unit dia. (BPS)
+Sispa - dh launch. maybe tambah user
+Perkhimdatan sokongan pembangunan system - kalau x ingat details, tp blh letak nama system
+
+*Training*
+en zaid tgk nanti dah panggil sorg2
+
+
+*shortcut*
+ctrl K+S
+shft+atl+arrow down/up
+ctrl+]/[
+ctrl+/

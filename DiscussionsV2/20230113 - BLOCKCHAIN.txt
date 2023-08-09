@@ -1,0 +1,45 @@
+20230113 - KERTAS CADANGAN PEMBANGUNAN PROTOTAIP DECENTRALISED APPLICATION (DApp) BERASASKAN TEKNOLOGI BLOCKCHAIN
+syarikat thuleen
+display the card in code - cut cost
+1. passport
+2. kad pelaut - check dlm 2 hari
+
+? international x percaya system malaysia so dia guna blockchain
+Seaferer - DApp Jabatan Laut Malaysia
+https://mysead.marine.gov.my
+
+1. Rangkaian blockchain - MaMPU-Ethereum
+	- KPDK dan JLM dah guna (link node)
+	- kalau nak guna, hantar surat pada MAMPU, untuk dapatkan 2/3 node based on tha apps yg nak di develop
+	- thuleen akan setup nodes
+	A) fungsi hash
+		- same input same output
+		- 
+	B) blockchain concept
+		- Head , Body, Tail
+		- data dari system, data yg di hash (timestamp,config,chainid), gabungan head dan body
+		- head dari 1st block adalah tail dari 0th block.
+		
+	every 15 seconds, create new block even empty hash using timestamp,config, chainid
+	jadi susah nak hack sbb every block depends on another.
+	
+	C)Merkle tree
+		- Merkle root
+		3. Data (maklumat pada kad di hash kan)
+		2. hashed data
+		1. hashed data2
+		0. hashed data3
+		- so merkle root tu yg simpan dalam body hashed
+		
+	soalan: kalau validity berubah, merkle root berubah, body berubah, tail berubah. cmne?
+	use revoke - data lama masih ada.
+	PWA - progressive Web Application
+	soalan: ada tak contoh blockchain telah digunapakai sekarang?
+	
+	smart contract - authorize person je blh buat tp kena foloow step by step
+	nak data berintegrity, xnk printer, guna modul blockchain
+	
+2. Pembangunan DApp
+
+
+- cadangan untuk buat is, so one ic have everything

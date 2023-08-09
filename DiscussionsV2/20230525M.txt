@@ -1,0 +1,13 @@
+1. Learn to create Web API using DatabaseFirst approach
+2. Use Scaffolding Command for database migration 
+Scaffold-DbContext 'Data Source=__ ; Initial Catalog=__ ;User=__; Password=__; Trusted_Connection=true;TrustServerCertificate=True' Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+3. Create controller using Entity Framework 
+4. Learn to use linq when displaying data that binds two tables.
+5. Revise Angular - passing query parameter to route using ActivatedRoute .paramMap
+
+1. Telah mengadakan perbincangan mengenai pembangunan Sistem e-Cess pada 11 Mei 2023.
+2. Skop perbincangan adalah melibatkan perintah LGM Ses Baharu dan Mekanisme Pungutan Ses.
+3. Telah mengadakan sesi libat urus bersama pihak RISDA pada 18 Mei 2023.
+4. Skop perbincangan yang sama telah dibincangkan semula kepada pihak RISDA dan telah mendapat respon positif.
+
+1. Akan meneliti dan mengkaji data jualan dalam sistem ERP

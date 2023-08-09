@@ -1,0 +1,57 @@
+*pesanan*
+lepas update kat meeting docs, jumpa sv untuk semakan.
+satu hari satu shortcut - tulis dlm document setiap minggu
+mte international gold medal - 4 competition menang
+- guideline, skema pemarkahan
+- judges org UK. kita kena tau org uk nak sustainable , x suka deforestation
+- pengerusi ckp siapa vendor yg buat system. buat in house. sbb xde cost
+- guna angular open source, db guna sql server
+- server
+- downtime. ada offline untuk counterback. simpan semua data dalam fon, bila ada line, auto upload
+- kena tunjuk kat judges system kita yg hebat
+- lebih kpd kebolehgunaan system untuk memudahkan kerja2 kita
+- kelestarian, sdg - sustainable development gold
+- RRIMniaga traceable
+cess, erp, traders
+column 1 - discuss
+column 2 - task
+colum 3 - catatan/masalah
+
+laman web letak dalam operation 
+RRMind - pn sara 24/3 kena siap
+RRMniaga - design db. android version prob
+RRMeformulary internal user - /
+RRMeformulary user page - tambah landing page, filter range min and max bhg properties
+myLesen - next meeting 22/3
+myGPS/app gps - hairul kata nak pakai terus, x boleh tunggu myLesen siap
+Data Kastam - pn mimi
+ePricision - kena lebih jelas, nama modul dan details, mention jugak
+SSO - Panggil meeting untuk publishing 
+eRM - /
+hartanah - /
+payment gateway - masalah after request landing page api.
+eCuti - amy 
+DRC eblockrubber - dpt call dari kilang. gtr keluar memo utk guna system tgk result dlm system. bila tgk module thn 2015 ada yg tak jalan 4&5/4 pergi sg petani
+myROL - fungsi tak buat lagi
+eBooking - masih discuss. buat meeting dgn en zaid, pn mimi, amirah
+pettyCash - dah siap. emel prob - ada yg dpt, ada yg x
+PMS - tunggu utk clear db, blh start profile (amy)
+UKA attachment - dh x mintak. dah guna NAVA
+eCres - result this week
+Pembangunan Semula Sistem Pengemaskinian Laman Web - dashboard kena connect dgn api berdasarkan yg lama - maintain
+
+*Operation*
+RRIMniaga - upload db
+RRIMfast - sistem UKA baru, spec user luar. UPPF encik syukri request system project monitoring untuk unit dia. (BPS)
+Sispa - dh launch. maybe tambah user
+Perkhimdatan sokongan pembangunan system - kalau x ingat details, tp blh letak nama system
+
+*Training*
+en zaid tgk nanti dah panggil sorg2
+
+
+*shortcut*
+ctrl K+S
+shft+atl+arrow down/up
+ctrl+]/[
+ctrl+/

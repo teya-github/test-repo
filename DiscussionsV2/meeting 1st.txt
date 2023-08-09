@@ -1,0 +1,57 @@
+Install  
+
+SQL Server, Visual Studio Code, Visual Studio, Angular CLI, node.js, .NET7 
+
+ 
+
+Training - Follow tutorial Tour of heroes 
+
+create project with component, routing-module, 
+
+use in-memory-data 
+
+Understand every function and services used in the system 
+
+presentation on Tour of Heroes 
+
+  
+
+Study .Net, C# 
+
+Reading Duende Identity Server 
+
+Research on SSO - understand concept 
+
+Make overview on SSO - Mind Map and sketching 
+
+ 
+
+Training - Follow tutorial Duende Quickstarts 
+
+- Install Duende Identity Server template (in-memory, Entity Framework) 
+
+- Create web API that requires authentication 
+
+- Create web Client that accesses that API 
+
+  
+
+Training - SSO with Angular Client 
+
+1. Create Duende Identity Server with Database Migration 
+
+2. Create web API1 with two controllers 
+
+3. Create an Angular Client with token interceptor 
+
+- Learn how this system works 
+
+- Determine/Modify the scope, claim, token that is used 
+
+- Try to stop looping problem/error when user logged in Duende Identity Server 
+
+  
+
+Training - Follow Angular 15 tutorial on Youtube 
+
+https://www.youtube.com/playlist?list=PL5Agzt13Z4g_8lPIq5BgS4mkHwuxAFob- 
