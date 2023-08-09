@@ -1,6 +1,0 @@
-font official website belah kiri //    font-family: Roboto,Helvetica Neue,sans-serif
-warna hijau kat text heder // #45b47c
-hijau pada menu tab lgm // #00924c
-hijau pada logo lgm // #009049
-emas pada logo lgm // #bc9d30
-emas pada footer lgm // #bd9e32
